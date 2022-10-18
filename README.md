@@ -1,5 +1,7 @@
 # Vb.net
-Decimal to Binary, 
+Functions for Vb.net
+
+ Decimal to Binary, 
   Reverse a String,
   Get even and odd in series,  
   Get factorial of a number input,
